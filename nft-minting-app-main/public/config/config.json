@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x12Bc9688a80AF160b205657adA65422dA35596E2",
+  "SCAN_LINK": "https://sepolia.etherscan.io/token/0x12bc9688a80af160b205657ada65422da35596e2?a=21",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "PRUEBA_NFTs",
+  "SYMBOL": "XDLOL",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
